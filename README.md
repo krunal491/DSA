@@ -31,4 +31,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/krunal491/DSA/tree/master/0053-maximum-subarray) |
+## Math
+|  |
+| ------- |
+| [0507-perfect-number](https://github.com/krunal491/DSA/tree/master/0507-perfect-number) |
 <!---LeetCode Topics End-->
