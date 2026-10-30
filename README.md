@@ -57,4 +57,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0713-subarray-product-less-than-k](https://github.com/krunal491/DSA/tree/master/0713-subarray-product-less-than-k) |
 | [1004-max-consecutive-ones-iii](https://github.com/krunal491/DSA/tree/master/1004-max-consecutive-ones-iii) |
+## String
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/krunal491/DSA/tree/master/0020-valid-parentheses) |
+## Stack
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/krunal491/DSA/tree/master/0020-valid-parentheses) |
+## Bracket Sequences
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/krunal491/DSA/tree/master/0020-valid-parentheses) |
 <!---LeetCode Topics End-->
